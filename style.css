@@ -1,0 +1,54 @@
+main {
+  background-color: #e6f1ff;
+}
+h1 {
+  color:  #001a1a;
+  margin: 0px 30%;
+  padding: 30px 0px 0px 0px;
+  text-align: center;
+}
+#orta {
+  text-align: center;
+  color:  #004d4d;
+}
+h3 {
+  color:  #0066cc;
+  margin: 10px 10px;
+  text-align: center;
+}
+ul, li {
+  margin: 10px 50px 20px 50px;
+}
+p {
+  color:  #00111a;
+  text-align: center;
+}
+p a {
+  color: #b3e6ff
+}
+figcaption {
+  text-align: center;
+}
+#img-caption {
+  text-align: center;
+  padding: 10px 150px;
+}
+figure {
+  background-color: #ffffcc;
+}
+#image {
+  margin: 5px 5px 5px 5px;
+  padding: 5% 10% 5% 10%;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+li {
+  height: 100px;
+  padding: 25px 50px;
+  box-sizing: border-box;
+  list-style-type: none;
+}
